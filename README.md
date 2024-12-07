@@ -11,9 +11,12 @@
 |学历|硕士研究生|
 
 ## 个人技能
-前端 ：能够熟练使用css,html,javascript，python
-后端 ：无
-数据库 : 熟练使用 mygrasql, postgrasql等关系数据库
+前端 ：能够熟练使用css,html,javascript，python  
+
+后端 ：无  
+
+数据库 : 熟练使用 mygrasql, postgrasql等关系数据库  
+
 
 ## 项目经验
 暂无相关项目经验
