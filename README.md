@@ -11,7 +11,7 @@
 |学历|硕士研究生|
 
 ## 个人技能
-前端 ：能够熟练使用css,html,javascript，python  
+前端 ：能够熟练使用c，python ，没有学过COMP6080 
 
 后端 ：无  
 
